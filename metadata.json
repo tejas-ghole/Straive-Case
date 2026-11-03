@@ -1,0 +1,6 @@
+{
+  "name": "FinNova Credit Risk Intelligence",
+  "description": "Executive Credit Risk Analytics & Underwriting Policy Simulator for retail personal loans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
